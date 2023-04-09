@@ -1,0 +1,5 @@
+transformers
+sentence_transformers
+gradio
+InstructorEmbedding
+unstructured[local-inference]
