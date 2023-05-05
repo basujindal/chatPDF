@@ -7,8 +7,8 @@ import openai
 from InstructorEmbedding import INSTRUCTOR
 logging.getLogger().setLevel(logging.CRITICAL)
 
-num_words = 20
-k = 20
+num_words = 150
+k = 7
 
 messages = [
  {"role": "system", "content" : "You are an AI agent that summarizes chat in less than three setences."}
