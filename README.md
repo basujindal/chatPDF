@@ -20,9 +20,6 @@ Tested on Ubuntu 22.04
 
 ## FAQ
 
-Q) Why not use LangChain
-A) Too abstract for me
-
 Q) Why not use OpenAI Embeddings
 A) Please feel free to create a pull request to add support for it. I wanted to keep the project entirely open source but ultimately couldn't resist using GPT3.5-turbo
 
